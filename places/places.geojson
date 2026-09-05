@@ -1,0 +1,1246 @@
+{
+  "type": "FeatureCollection",
+  "name": "JHO Historical Places",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.26944,
+          18.09111
+        ]
+      },
+      "properties": {
+        "name": "Danks / Dankes Land",
+        "location": "Clarendon, Jamaica",
+        "records": [
+          {
+            "title": "Last Will of Sir Henry Morgan",
+            "url": "https://jamaicanhistoryonline.org/transcripts/henry-morgan-will-1688.html"
+          }
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.957418,
+          17.991073
+        ]
+      },
+      "properties": {
+        "name": "Spanish Town / St Jago de la Vega",
+        "location": "Spanish Town, St Catherine, Jamaica",
+        "records": [
+          {
+            "title": "Last Will of Sir Henry Morgan",
+            "url": "https://jamaicanhistoryonline.org/transcripts/henry-morgan-will-1688.html"
+          },
+          {
+            "title": "Last Will of Thomas Gray",
+            "url": "https://jamaicanhistoryonline.org/transcripts/thomas-gray-will-1782.html"
+          },
+          {
+            "title": "Supplement to the Royal Gazette, 10 November 1781",
+            "url": "https://jamaicanhistoryonline.org/transcripts/royal-gazette-supplement-1781-11-10.html"
+          }
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.84062,
+          17.93738
+        ]
+      },
+      "properties": {
+        "name": "Port Royal",
+        "location": "Port Royal, Kingston, Jamaica",
+        "records": [
+          {
+            "title": "Last Will of John Rosewell",
+            "url": "https://jamaicanhistoryonline.org/transcripts/john-rosewell-will-1712.html"
+          },
+          {
+            "title": "Supplement to the Royal Gazette, 10 November 1781",
+            "url": "https://jamaicanhistoryonline.org/transcripts/royal-gazette-supplement-1781-11-10.html"
+          }
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7935752868652,
+          17.9970194353704
+        ]
+      },
+      "properties": {
+        "name": "Kingston",
+        "location": "Kingston, Jamaica",
+        "records": [
+          {
+            "title": "Last Will of Thomas Gray",
+            "url": "https://jamaicanhistoryonline.org/transcripts/thomas-gray-will-1782.html"
+          },
+          {
+            "title": "Supplement to the Royal Gazette, 10 November 1781",
+            "url": "https://jamaicanhistoryonline.org/transcripts/royal-gazette-supplement-1781-11-10.html"
+          }
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3492,
+          17.9482
+        ]
+      },
+      "properties": {
+        "name": "Bath, St Thomas",
+        "location": "Bath, St Thomas, Jamaica",
+        "records": [
+          {
+            "title": "Supplement to the Royal Gazette, 10 November 1781",
+            "url": "https://jamaicanhistoryonline.org/transcripts/royal-gazette-supplement-1781-11-10.html"
+          }
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4116,
+          17.8821
+        ]
+      },
+      "properties": {
+        "name": "Morant Bay",
+        "location": "Morant Bay, St Thomas, Jamaica",
+        "records": [
+          {
+            "title": "Revolt of Slaves at Jamaica, 24 February 1832",
+            "url": "https://jamaicanhistoryonline.org/transcripts/revolt-of-slaves-at-jamaica-1832-02-24.html"
+          }
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.92281,
+          18.47375
+        ]
+      },
+      "properties": {
+        "name": "Montego Bay",
+        "location": "Montego Bay, St James, Jamaica",
+        "records": [
+          {
+            "title": "Revolt of Slaves at Jamaica, 24 February 1832",
+            "url": "https://jamaicanhistoryonline.org/transcripts/revolt-of-slaves-at-jamaica-1832-02-24.html"
+          }
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.89383,
+          18.37324
+        ]
+      },
+      "properties": {
+        "name": "Port Maria",
+        "location": "Port Maria, St Mary, Jamaica",
+        "records": [
+          {
+            "title": "Supplement to the Royal Gazette, 10 November 1781",
+            "url": "https://jamaicanhistoryonline.org/transcripts/royal-gazette-supplement-1781-11-10.html"
+          }
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.753596,
+          18.226265
+        ]
+      },
+      "properties": {
+        "name": "Accompong",
+        "location": "Accompong, St Elizabeth, Jamaica",
+        "records": [
+          {
+            "title": "Revolt of Slaves at Jamaica, 24 February 1832",
+            "url": "https://jamaicanhistoryonline.org/transcripts/revolt-of-slaves-at-jamaica-1832-02-24.html"
+          }
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.1337,
+          18.2147
+        ]
+      },
+      "properties": {
+        "name": "Savanna-la-Mar",
+        "location": "Savanna-la-Mar, Westmoreland, Jamaica",
+        "records": [
+          {
+            "title": "Revolt of Slaves at Jamaica, 24 February 1832",
+            "url": "https://jamaicanhistoryonline.org/transcripts/revolt-of-slaves-at-jamaica-1832-02-24.html"
+          }
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.53622,
+          18.4692
+        ]
+      },
+      "properties": {
+        "name": "Duncans",
+        "location": "Duncans, Trelawny, Jamaica",
+        "records": [
+          {
+            "title": "Revolt of Slaves at Jamaica, 24 February 1832",
+            "url": "https://jamaicanhistoryonline.org/transcripts/revolt-of-slaves-at-jamaica-1832-02-24.html"
+          },
+          {
+            "title": "Supplement to the Royal Gazette, 10 November 1781",
+            "url": "https://jamaicanhistoryonline.org/transcripts/royal-gazette-supplement-1781-11-10.html"
+          }
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.90184,
+          18.31433
+        ]
+      },
+      "properties": {
+        "name": "Cambridge, St James",
+        "location": "Cambridge, St James, Jamaica",
+        "records": [
+          {
+            "title": "Revolt of Slaves at Jamaica, 24 February 1832",
+            "url": "https://jamaicanhistoryonline.org/transcripts/revolt-of-slaves-at-jamaica-1832-02-24.html"
+          }
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0167,
+          18.45
+        ]
+      },
+      "properties": {
+        "name": "Round Hill, Hanover",
+        "location": "Round Hill, Hanover, Jamaica",
+        "records": [
+          {
+            "title": "Revolt of Slaves at Jamaica, 24 February 1832",
+            "url": "https://jamaicanhistoryonline.org/transcripts/revolt-of-slaves-at-jamaica-1832-02-24.html"
+          }
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.99199,
+          18.44917
+        ]
+      },
+      "properties": {
+        "name": "Great River mouth",
+        "location": "Great River mouth, Hanover–St James boundary, Jamaica",
+        "records": [
+          {
+            "title": "Revolt of Slaves at Jamaica, 24 February 1832",
+            "url": "https://jamaicanhistoryonline.org/transcripts/revolt-of-slaves-at-jamaica-1832-02-24.html"
+          }
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.27999,
+          18.03681
+        ]
+      },
+      "properties": {
+        "name": "Manchioneal, Portland",
+        "location": "Manchioneal, Portland, Jamaica",
+        "records": [
+          {
+            "title": "Revolt of Slaves at Jamaica, 24 February 1832",
+            "url": "https://jamaicanhistoryonline.org/transcripts/revolt-of-slaves-at-jamaica-1832-02-24.html"
+          }
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.27124,
+          17.80344
+        ]
+      },
+      "properties": {
+        "name": "The Alley / Withywood, Vere",
+        "location": "Vere, Clarendon, Jamaica",
+        "records": [
+          {
+            "title": "Revolt of Slaves at Jamaica, 24 February 1832",
+            "url": "https://jamaicanhistoryonline.org/transcripts/revolt-of-slaves-at-jamaica-1832-02-24.html"
+          }
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.11342,
+          17.93839
+        ]
+      },
+      "properties": {
+        "name": "Old Harbour",
+        "location": "Old Harbour, St Catherine, Jamaica",
+        "records": [
+          {
+            "title": "Supplement to the Royal Gazette, 10 November 1781",
+            "url": "https://jamaicanhistoryonline.org/transcripts/royal-gazette-supplement-1781-11-10.html"
+          }
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.023066,
+          18.361339
+        ]
+      },
+      "properties": {
+        "name": "Golden Grove Estate, Hanover",
+        "location": "Hanover, Jamaica",
+        "records": [
+          {
+            "title": "Revolt of Slaves at Jamaica, 24 February 1832",
+            "url": "https://jamaicanhistoryonline.org/transcripts/revolt-of-slaves-at-jamaica-1832-02-24.html"
+          }
+        ],
+        "notes": "UCL Legacies of British Slavery: Jamaica Hanover 27, claim ID 15984."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.000184,
+          18.374571
+        ]
+      },
+      "properties": {
+        "name": "Content Estate, Hanover",
+        "location": "Hanover, Jamaica",
+        "records": [
+          {
+            "title": "Revolt of Slaves at Jamaica, 24 February 1832",
+            "url": "https://jamaicanhistoryonline.org/transcripts/revolt-of-slaves-at-jamaica-1832-02-24.html"
+          }
+        ],
+        "notes": "UCL Legacies of British Slavery estate ID 7302."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.907463,
+          18.009784
+        ]
+      },
+      "properties": {
+        "name": "Dawkins’s Caymanas, St Catherine",
+        "location": "St Catherine, Jamaica",
+        "records": [
+          {
+            "title": "Supplement to the Royal Gazette, 10 November 1781",
+            "url": "https://jamaicanhistoryonline.org/transcripts/royal-gazette-supplement-1781-11-10.html"
+          }
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.748393,
+          18.270282
+        ]
+      },
+      "properties": {
+        "name": "Iter Boreale",
+        "location": "Historic St George parish, Jamaica",
+        "records": [
+          {
+            "title": "Supplement to the Royal Gazette, 10 November 1781",
+            "url": "https://jamaicanhistoryonline.org/transcripts/royal-gazette-supplement-1781-11-10.html"
+          }
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.40178,
+          18.3891
+        ]
+      },
+      "properties": {
+        "name": "Lindale Pen / Lyndale",
+        "location": "St Ann, Jamaica",
+        "records": [
+          {
+            "title": "Last Will of John Bainbridge",
+            "url": "https://jamaicanhistoryonline.org/transcripts/john-bainbridge-will-1817.html"
+          }
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.09611,
+          18.21699
+        ]
+      },
+      "properties": {
+        "name": "Mount Diablo",
+        "location": "St Ann, Jamaica",
+        "records": [
+          {
+            "title": "Last Will of Richard Palmer Martin",
+            "url": "https://jamaicanhistoryonline.org/transcripts/richard-palmer-martin-will-1823.html"
+          }
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.07194,
+          18.21476
+        ]
+      },
+      "properties": {
+        "name": "Mount Sion / Mount Zion",
+        "location": "St Thomas-in-the-Vale, Jamaica",
+        "records": [
+          {
+            "title": "Last Will of Richard Palmer Martin",
+            "url": "https://jamaicanhistoryonline.org/transcripts/richard-palmer-martin-will-1823.html"
+          }
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.704965,
+          18.260506
+        ]
+      },
+      "properties": {
+        "name": "Dover Castle / Dover",
+        "location": "St Mary, Jamaica",
+        "records": [
+          {
+            "title": "Last Will of Richard Palmer Martin",
+            "url": "https://jamaicanhistoryonline.org/transcripts/richard-palmer-martin-will-1823.html"
+          }
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.026821,
+          18.148851
+        ]
+      },
+      "properties": {
+        "name": "Rose Hall Estate, St Thomas-in-the-Vale",
+        "location": "St Thomas-in-the-Vale, Jamaica",
+        "records": [
+          {
+            "title": "Supplement to the Royal Gazette, 10 November 1781",
+            "url": "https://jamaicanhistoryonline.org/transcripts/royal-gazette-supplement-1781-11-10.html"
+          }
+        ],
+        "notes": "UCL Legacies of British Slavery estate ID 2532. The 1781 notice associates Rose Hall with Sir Charles Price."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.17293,
+          18.44722
+        ]
+      },
+      "properties": {
+        "name": "Lucea",
+        "location": "Lucea, Hanover, Jamaica",
+        "records": [
+          {
+            "title": "Revolt of Slaves at Jamaica, 24 February 1832",
+            "url": "https://jamaicanhistoryonline.org/transcripts/revolt-of-slaves-at-jamaica-1832-02-24.html"
+          }
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.79386,
+          18.34287
+        ]
+      },
+      "properties": {
+        "name": "Maroon Town",
+        "location": "Maroon Town, St James, Jamaica",
+        "records": [
+          {
+            "title": "Revolt of Slaves at Jamaica, 24 February 1832",
+            "url": "https://jamaicanhistoryonline.org/transcripts/revolt-of-slaves-at-jamaica-1832-02-24.html"
+          }
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.00582,
+          18.41938
+        ]
+      },
+      "properties": {
+        "name": "Welcome Estate, Hanover",
+        "location": "Hanover, Jamaica",
+        "records": [
+          {
+            "title": "Revolt of Slaves at Jamaica, 24 February 1832",
+            "url": "https://jamaicanhistoryonline.org/transcripts/revolt-of-slaves-at-jamaica-1832-02-24.html"
+          }
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.791581,
+          17.9868
+        ]
+      },
+      "properties": {
+        "name": "Admiral’s Pen, St Andrew",
+        "location": "St Andrew, Jamaica",
+        "records": [
+          {
+            "title": "Supplement to the Royal Gazette, 10 November 1781",
+            "url": "https://jamaicanhistoryonline.org/transcripts/royal-gazette-supplement-1781-11-10.html"
+          }
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6745,
+          18.22249
+        ]
+      },
+      "properties": {
+        "name": "White River, old St George",
+        "location": "Historic St George parish, Jamaica",
+        "records": [
+          {
+            "title": "Supplement to the Royal Gazette, 10 November 1781",
+            "url": "https://jamaicanhistoryonline.org/transcripts/royal-gazette-supplement-1781-11-10.html"
+          }
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.69685,
+          18.25939
+        ]
+      },
+      "properties": {
+        "name": "Windsor Castle",
+        "location": "St Mary, Jamaica",
+        "records": [
+          {
+            "title": "Last Will of Richard Palmer Martin",
+            "url": "https://jamaicanhistoryonline.org/transcripts/richard-palmer-martin-will-1823.html"
+          }
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.02817,
+          51.56159
+        ]
+      },
+      "properties": {
+        "name": "Tredegar House, Newport, Wales",
+        "location": "Newport, Wales, United Kingdom",
+        "records": [
+          {
+            "title": "Last Will of Sir Henry Morgan",
+            "url": "https://jamaicanhistoryonline.org/transcripts/henry-morgan-will-1688.html"
+          }
+        ],
+        "notes": "Morgan’s will describes Thomas Morgan as “of Tredegar.”"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.896,
+          18.4394
+        ]
+      },
+      "properties": {
+        "name": "Pitifour Estate / Pitfour Pen",
+        "location": "Pitfour, St James, Jamaica",
+        "records": [
+          {
+            "title": "Revolt of Slaves at Jamaica, 24 February 1832",
+            "url": "https://jamaicanhistoryonline.org/transcripts/revolt-of-slaves-at-jamaica-1832-02-24.html"
+          }
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.767125,
+          18.272681
+        ]
+      },
+      "properties": {
+        "name": "Penkarne / Pencarne",
+        "location": "Pencar River area, St Mary, near Annotto Bay, Jamaica",
+        "records": [
+          {
+            "title": "Last Will of Sir Henry Morgan",
+            "url": "https://jamaicanhistoryonline.org/transcripts/henry-morgan-will-1688.html"
+          }
+        ],
+        "notes": "The 1688 will places Penkarne in historic St George; the mapped location corresponds to the surviving Pencar River area near Annotto Bay."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.82157,
+          18.43439
+        ]
+      },
+      "properties": {
+        "name": "Latium Estate / Latium",
+        "location": "Lottery, St James, Jamaica",
+        "records": [
+          {
+            "title": "Revolt of Slaves at Jamaica, 24 February 1832",
+            "url": "https://jamaicanhistoryonline.org/transcripts/revolt-of-slaves-at-jamaica-1832-02-24.html"
+          }
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.93366,
+          18.43971
+        ]
+      },
+      "properties": {
+        "name": "Bog Estate / Bogue Estate",
+        "location": "Bogue, St James, Jamaica",
+        "records": [
+          {
+            "title": "Revolt of Slaves at Jamaica, 24 February 1832",
+            "url": "https://jamaicanhistoryonline.org/transcripts/revolt-of-slaves-at-jamaica-1832-02-24.html"
+          }
+        ],
+        "notes": "Robertson 1804 uses Bog Estate; later and modern usage is Bogue Estate."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.937211,
+          18.404325
+        ]
+      },
+      "properties": {
+        "name": "Anchovy Bottom",
+        "location": "Anchovy Bottom, St James, Jamaica",
+        "records": [
+          {
+            "title": "Revolt of Slaves at Jamaica, 24 February 1832",
+            "url": "https://jamaicanhistoryonline.org/transcripts/revolt-of-slaves-at-jamaica-1832-02-24.html"
+          }
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.94972,
+          18.35806
+        ]
+      },
+      "properties": {
+        "name": "Montpellier New Works",
+        "location": "Montpelier / Great River district, St James, Jamaica",
+        "records": [
+          {
+            "title": "Revolt of Slaves at Jamaica, 24 February 1832",
+            "url": "https://jamaicanhistoryonline.org/transcripts/revolt-of-slaves-at-jamaica-1832-02-24.html"
+          }
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.02316,
+          18.291
+        ]
+      },
+      "properties": {
+        "name": "Haddo",
+        "location": "Haddo, Westmoreland, Jamaica",
+        "records": [
+          {
+            "title": "Revolt of Slaves at Jamaica, 24 February 1832",
+            "url": "https://jamaicanhistoryonline.org/transcripts/revolt-of-slaves-at-jamaica-1832-02-24.html"
+          }
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.87,
+          18.2385
+        ]
+      },
+      "properties": {
+        "name": "Chesterfield",
+        "location": "Chesterfield, St James, Jamaica",
+        "records": [
+          {
+            "title": "Revolt of Slaves at Jamaica, 24 February 1832",
+            "url": "https://jamaicanhistoryonline.org/transcripts/revolt-of-slaves-at-jamaica-1832-02-24.html"
+          }
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8711,
+          18.2718
+        ]
+      },
+      "properties": {
+        "name": "Belfont",
+        "location": "Belfont, St James, Jamaica",
+        "records": [
+          {
+            "title": "Revolt of Slaves at Jamaica, 24 February 1832",
+            "url": "https://jamaicanhistoryonline.org/transcripts/revolt-of-slaves-at-jamaica-1832-02-24.html"
+          }
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9072,
+          18.3087
+        ]
+      },
+      "properties": {
+        "name": "Dackets Spring / Ducketts",
+        "location": "Ducketts, St James, Jamaica",
+        "records": [
+          {
+            "title": "Revolt of Slaves at Jamaica, 24 February 1832",
+            "url": "https://jamaicanhistoryonline.org/transcripts/revolt-of-slaves-at-jamaica-1832-02-24.html"
+          }
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.88333,
+          18.43333
+        ]
+      },
+      "properties": {
+        "name": "Retirement",
+        "location": "Retirement, St James, Jamaica",
+        "records": [
+          {
+            "title": "Revolt of Slaves at Jamaica, 24 February 1832",
+            "url": "https://jamaicanhistoryonline.org/transcripts/revolt-of-slaves-at-jamaica-1832-02-24.html"
+          }
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3065,
+          17.9469
+        ]
+      },
+      "properties": {
+        "name": "Plantain River / Plantain Garden River Estate",
+        "location": "Plantain Garden River district, St Thomas, Jamaica",
+        "records": [
+          {
+            "title": "Revolt of Slaves at Jamaica, 24 February 1832",
+            "url": "https://jamaicanhistoryonline.org/transcripts/revolt-of-slaves-at-jamaica-1832-02-24.html"
+          }
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.31499,
+          18.0996
+        ]
+      },
+      "properties": {
+        "name": "Rose Garden Estate / Rose Garden",
+        "location": "Rose Garden, Portland, Jamaica",
+        "records": [
+          {
+            "title": "Revolt of Slaves at Jamaica, 24 February 1832",
+            "url": "https://jamaicanhistoryonline.org/transcripts/revolt-of-slaves-at-jamaica-1832-02-24.html"
+          }
+        ],
+        "notes": "Historically in the Manchioneal division of St Thomas-in-the-East."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.32634,
+          18.12256
+        ]
+      },
+      "properties": {
+        "name": "Fair Prospect",
+        "location": "Fair Prospect, Portland, Jamaica",
+        "records": [
+          {
+            "title": "Revolt of Slaves at Jamaica, 24 February 1832",
+            "url": "https://jamaicanhistoryonline.org/transcripts/revolt-of-slaves-at-jamaica-1832-02-24.html"
+          }
+        ],
+        "notes": "Historically in St Thomas-in-the-East."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.90743,
+          18.43062
+        ]
+      },
+      "properties": {
+        "name": "Ramble Pen",
+        "location": "Bogue, St James, Jamaica",
+        "records": [
+          {
+            "title": "Revolt of Slaves at Jamaica, 24 February 1832",
+            "url": "https://jamaicanhistoryonline.org/transcripts/revolt-of-slaves-at-jamaica-1832-02-24.html"
+          }
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.90682,
+          18.44151
+        ]
+      },
+      "properties": {
+        "name": "Belfield Estate / Bellefield Great House",
+        "location": "Montego Bay, St James, Jamaica",
+        "records": [
+          {
+            "title": "Revolt of Slaves at Jamaica, 24 February 1832",
+            "url": "https://jamaicanhistoryonline.org/transcripts/revolt-of-slaves-at-jamaica-1832-02-24.html"
+          }
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.93214,
+          18.45809
+        ]
+      },
+      "properties": {
+        "name": "Torbay / Montego Freeport",
+        "location": "Montego Freeport, St James, Jamaica",
+        "records": [
+          {
+            "title": "Revolt of Slaves at Jamaica, 24 February 1832",
+            "url": "https://jamaicanhistoryonline.org/transcripts/revolt-of-slaves-at-jamaica-1832-02-24.html"
+          }
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.44900134927055,
+          17.87802551431152
+        ]
+      },
+      "properties": {
+        "name": "Rozelle Estate",
+        "location": "Rozelle, St Thomas, Jamaica",
+        "records": [],
+        "notes": "",
+        "research_context": "Plantation central to JHO research into the people enslaved and employed at Rozelle and the surviving estate papers."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.43532,
+          17.87535
+        ]
+      },
+      "properties": {
+        "name": "Belvidere / Belvedere Estate",
+        "location": "Belvedere, St Thomas, Jamaica",
+        "records": [],
+        "notes": "",
+        "research_context": "Neighbouring estate identified in the surviving Rozelle correspondence."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.51969,
+          17.95195
+        ]
+      },
+      "properties": {
+        "name": "Georgia Plantation",
+        "location": "Georgia, St Thomas, Jamaica",
+        "records": [],
+        "notes": "",
+        "research_context": "Plantation associated with the Bennett family and with JHO research into people enslaved at Georgia."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.50415,
+          17.95254
+        ]
+      },
+      "properties": {
+        "name": "Coley House / Coley Plantation",
+        "location": "Coley, St Thomas, Jamaica",
+        "records": [],
+        "notes": "Pin marks the surviving Coley House ruins.",
+        "research_context": "Surviving ruins of a property associated with the Bennett family and related estate litigation."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.42871682047084,
+          17.87992867184122
+        ]
+      },
+      "properties": {
+        "name": "Friendship Plantation",
+        "location": "Friendship, St Thomas, Jamaica",
+        "records": [],
+        "notes": "",
+        "research_context": "St Thomas plantation connected with the wider Rozelle research."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7771127,
+          18.0138614
+        ]
+      },
+      "properties": {
+        "name": "Vale Royal",
+        "location": "Vale Royal, St Andrew, Jamaica",
+        "records": [],
+        "notes": "",
+        "research_context": "Historic property formerly known as Archbould's Pen and associated with the Archbould family."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.31735635657834,
+          17.97706868639625
+        ]
+      },
+      "properties": {
+        "name": "Belle Plain Great House",
+        "location": "Belle Plain, Clarendon, Jamaica",
+        "records": [],
+        "notes": "Pin marks the Great House site.",
+        "research_context": "Great House site associated with JHO research into the Howell family and Belle Plain."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.78388602312958,
+          18.05865556625623
+        ]
+      },
+      "properties": {
+        "name": "Constant Spring Plantation",
+        "location": "Constant Spring, St Andrew, Jamaica",
+        "records": [],
+        "notes": "",
+        "research_context": "Historic plantation associated with the Archbould family."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8006535,
+          18.0099841
+        ]
+      },
+      "properties": {
+        "name": "St Andrew Parish Church",
+        "location": "Half Way Tree, St Andrew, Jamaica",
+        "records": [],
+        "notes": "",
+        "research_context": "Historic church and burial ground containing monuments associated with the Bennett and Archbould families."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3872827060854,
+          18.39110501181373
+        ]
+      },
+      "properties": {
+        "name": "Bainbridge's Pen",
+        "location": "St Ann, Jamaica",
+        "records": [],
+        "notes": "",
+        "research_context": "Pen shown on Robertson's 1804 map under Thomas Bainbridge and connected to research associated with the Bainbridge family."
+      }
+    }
+  ]
+}
