@@ -1,28 +1,67 @@
 <!doctype html>
-
 <html lang="en">
 <head>
   <meta charset="utf-8">
   <title>About | Jamaican History Online</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/png" href="../images/jamaicanhistoryonline.png">
+  <style>
+    :root { --ink:#171717; --muted:#5d5a54; --paper:#fbfaf7; --rule:#c9c4b9; --link:#193d65; }
+    * { box-sizing:border-box; }
+    html { background:var(--paper); }
+    body { margin:0; background:var(--paper); color:var(--ink); font-family:Georgia,"Times New Roman",serif; font-size:18px; line-height:1.58; }
+    .masthead { background:#080808; color:#fff; border-bottom:4px solid #272727; }
+    .masthead-inner { width:min(920px,calc(100% - 36px)); margin:0 auto; text-align:center; padding:23px 0 15px; }
+    .site-title { margin:0; font-family:Centaur,"Palatino Linotype","Book Antiqua",Georgia,serif; font-size:clamp(2.35rem,6.3vw,4rem); line-height:1; font-weight:normal; letter-spacing:.005em; }
+    .site-title a { color:#fff; text-decoration:none; }
+    nav { margin-top:17px; display:flex; justify-content:center; flex-wrap:wrap; gap:10px 30px; font-family:Arial,Helvetica,sans-serif; font-size:.88rem; }
+    nav a { color:#fff; text-decoration:none; border-bottom:1px solid transparent; padding-bottom:2px; }
+    nav a:hover, nav a:focus, nav a[aria-current="page"] { border-bottom-color:#fff; }
+    main { width:min(920px,calc(100% - 48px)); margin:0 auto; padding:42px 0 52px; }
+    .page-header { max-width:760px; margin:0 auto 31px; text-align:center; }
+    h1 { margin:0 0 13px; font-family:Georgia,"Times New Roman",serif; font-size:clamp(2rem,5vw,2.75rem); line-height:1.12; }
+    .page-header p { margin:0; }
+    .ornament { display:flex; align-items:center; gap:15px; margin:0 auto 34px; color:#777167; }
+    .ornament::before, .ornament::after { content:""; height:1px; background:var(--rule); flex:1; }
+    .ornament span { font-size:.82rem; letter-spacing:.12em; }
+    .about-copy { max-width:760px; margin:0 auto; }
+    .about-copy p { margin:0 0 18px; }
+    a { color:var(--link); text-underline-offset:2px; }
+    footer { width:min(920px,calc(100% - 48px)); margin:0 auto; padding:20px 0 30px; border-top:1px solid var(--rule); text-align:center; font-family:Arial,Helvetica,sans-serif; font-size:.78rem; color:var(--muted); }
+    @media (max-width:600px) {
+      body { font-size:17px; }
+      .masthead-inner { padding-top:19px; }
+      nav { gap:8px 20px; }
+      main { padding-top:31px; }
+    }
+  </style>
 </head>
 <body>
-  <h1>About Jamaican History Online</h1>
+  <header class="masthead">
+    <div class="masthead-inner">
+      <div class="site-title"><a href="../index.html">Jamaican History Online</a></div>
+      <nav aria-label="Main navigation">
+        <a href="../transcripts/index.html">Transcripts</a>
+        <a href="../places/index.html">Places</a>
+        <a href="index.html" aria-current="page">About</a>
+      </nav>
+    </div>
+  </header>
 
-  <p>
-    Jamaican History Online is a digital archive and research project created
-    by Herman McLeod, focused on Jamaican history.
-  </p>
+  <main>
+    <header class="page-header">
+      <h1>About Jamaican History Online</h1>
+      <p>A digital archive and research project focused on Jamaican history.</p>
+    </header>
 
-  <p>
-    The site publishes historical transcripts, places, research notes, and
-    source guides, with links to original repositories and catalogues where
-    possible.
-  </p>
+    <div class="ornament" aria-hidden="true"><span>◆</span></div>
 
-  <p>
-    <a href="../index.html">Back to home</a>
-  </p>
+    <div class="about-copy">
+      <p>Jamaican History Online was created by Herman McLeod to publish historical transcripts, places, research notes, and source guides relating to Jamaica.</p>
+      <p>Where possible, material links back to the original repository or catalogue so that sources can be checked and followed further.</p>
+    </div>
+  </main>
+
+  <footer>Jamaican History Online</footer>
 </body>
 </html>
