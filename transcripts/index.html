@@ -1,74 +1,89 @@
 <!doctype html>
-
 <html lang="en">
 <head>
   <meta charset="utf-8">
   <title>Transcript Record | Jamaican History Online</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/png" href="../images/jamaicanhistoryonline.png">
+  <style>
+    :root { --ink:#171717; --muted:#5d5a54; --paper:#fbfaf7; --rule:#c9c4b9; --link:#193d65; }
+    * { box-sizing:border-box; }
+    html { background:var(--paper); }
+    body { margin:0; background:var(--paper); color:var(--ink); font-family:Georgia,"Times New Roman",serif; font-size:18px; line-height:1.58; }
+    .masthead { background:#080808; color:#fff; border-bottom:4px solid #272727; }
+    .masthead-inner { width:min(920px,calc(100% - 36px)); margin:0 auto; text-align:center; padding:23px 0 15px; }
+    .site-title { margin:0; font-family:Centaur,"Palatino Linotype","Book Antiqua",Georgia,serif; font-size:clamp(2.35rem,6.3vw,4rem); line-height:1; font-weight:normal; letter-spacing:.005em; }
+    .site-title a { color:#fff; text-decoration:none; }
+    nav { margin-top:17px; display:flex; justify-content:center; flex-wrap:wrap; gap:10px 30px; font-family:Arial,Helvetica,sans-serif; font-size:.88rem; }
+    nav a { color:#fff; text-decoration:none; border-bottom:1px solid transparent; padding-bottom:2px; }
+    nav a:hover, nav a:focus, nav a[aria-current="page"] { border-bottom-color:#fff; }
+    main { width:min(920px,calc(100% - 48px)); margin:0 auto; padding:42px 0 52px; }
+    .page-header { max-width:760px; margin:0 auto 31px; text-align:center; }
+    h1 { margin:0 0 13px; font-family:Georgia,"Times New Roman",serif; font-size:clamp(2rem,5vw,2.75rem); line-height:1.12; }
+    .page-header p { margin:0; }
+    .ornament { display:flex; align-items:center; gap:15px; margin:0 auto 34px; color:#777167; }
+    .ornament::before, .ornament::after { content:""; height:1px; background:var(--rule); flex:1; }
+    .ornament span { font-size:.82rem; letter-spacing:.12em; }
+    h2 { margin:0 0 8px; font-size:1.55rem; line-height:1.2; }
+    .section-intro { margin:0 0 20px; color:var(--muted); }
+    a { color:var(--link); text-underline-offset:2px; }
+    .record-list { list-style:none; padding:0; margin:0; border-top:1px solid var(--rule); }
+    .record-list li { display:grid; grid-template-columns:minmax(0,1fr) auto; gap:18px; align-items:baseline; padding:12px 0; border-bottom:1px solid var(--rule); }
+    .record-list a { font-weight:bold; }
+    .record-date { color:var(--muted); white-space:nowrap; font-variant-numeric:tabular-nums; }
+    footer { width:min(920px,calc(100% - 48px)); margin:0 auto; padding:20px 0 30px; border-top:1px solid var(--rule); text-align:center; font-family:Arial,Helvetica,sans-serif; font-size:.78rem; color:var(--muted); }
+    @media (max-width:600px) {
+      body { font-size:17px; }
+      .masthead-inner { padding-top:19px; }
+      nav { gap:8px 20px; }
+      main { padding-top:31px; }
+      .record-list li { display:block; }
+      .record-date { display:block; margin-top:2px; }
+    }
+  </style>
 </head>
 <body>
-  <h1>Transcript Record</h1>
+  <header class="masthead">
+    <div class="masthead-inner">
+      <div class="site-title"><a href="../index.html">Jamaican History Online</a></div>
+      <nav aria-label="Main navigation">
+        <a href="index.html" aria-current="page">Transcripts</a>
+        <a href="../places/index.html">Places</a>
+        <a href="../about/index.html">About</a>
+      </nav>
+    </div>
+  </header>
 
-  <p>
-    This section collects structured transcripts of historical documents
-    relating to Jamaican history.
-  </p>
+  <main>
+    <header class="page-header">
+      <h1>Transcript Record</h1>
+      <p>Structured transcripts of historical documents relating to Jamaican history, with source information and links to the holding archive where possible.</p>
+    </header>
 
-  <p>
-    Each transcript page includes basic source information, a plain-text
-    transcript, and links back to the holding archive where possible.
-  </p>
+    <div class="ornament" aria-hidden="true"><span>◆</span></div>
 
-  <h2>Transcripts</h2>
+    <section aria-labelledby="transcripts-heading">
+      <h2 id="transcripts-heading">Transcripts</h2>
+      <p class="section-intro">Records are listed chronologically by document date.</p>
+      <ul class="record-list">
+        <li><a href="william-gordon-will-1671.html">Last Will of William Gordon</a><span class="record-date">1671</span></li>
+        <li><a href="george-booth-will-1676.html">Last Will of George Booth</a><span class="record-date">1676</span></li>
+        <li><a href="henry-morgan-will-1688.html">Last Will of Sir Henry Morgan</a><span class="record-date">1688</span></li>
+        <li><a href="george-bennett-will-1693.html">Last Will of George Bennett</a><span class="record-date">1693</span></li>
+        <li><a href="john-rosewell-will-1712.html">Last Will of John Rosewell</a><span class="record-date">1712</span></li>
+        <li><a href="henry-wisdom-will-1744.html">Last Will of Henry Wisdom</a><span class="record-date">1744</span></li>
+        <li><a href="archbold-mary-henry-morgan-1748.html">Manumission Letter: Archbold to Mary and Henry Morgan</a><span class="record-date">1747/8</span></li>
+        <li><a href="sarah-archbould-scotland-1756.html">Manumission Letter: Archbould, Sarah to Scotland</a><span class="record-date">1756</span></li>
+        <li><a href="henry-archbould-jack-1757.html">Manumission Letter: Archbould, Henry to Jack</a><span class="record-date">1756/1757</span></li>
+        <li><a href="royal-gazette-supplement-1781-11-10.html">Supplement to the Royal Gazette</a><span class="record-date">10 November 1781</span></li>
+        <li><a href="thomas-gray-will-1782.html">Last Will of Thomas Gray</a><span class="record-date">1782</span></li>
+        <li><a href="john-bainbridge-will-1817.html">Last Will of John Bainbridge</a><span class="record-date">1817</span></li>
+        <li><a href="richard-palmer-martin-will-1823.html">Last Will of Richard Palmer Martin</a><span class="record-date">1823</span></li>
+        <li><a href="revolt-of-slaves-at-jamaica-1832-02-24.html">Newspaper Article: “Revolt of Slaves at Jamaica”</a><span class="record-date">24 February 1832</span></li>
+      </ul>
+    </section>
+  </main>
 
-  <ul>
-    <li>
-      <a href="william-gordon-will-1671.html">Last Will of William Gordon</a>, 1671
-    </li>
-    <li>
-      <a href="george-booth-will-1676.html">Last Will of George Booth</a>, 1676
-    </li>
-    <li>
-      <a href="henry-morgan-will-1688.html">Last Will of Sir Henry Morgan</a>, 1688
-    </li>
-    <li>
-      <a href="george-bennett-will-1693.html">Last Will of George Bennett</a>, 1693
-    </li>
-    <li>
-      <a href="john-rosewell-will-1712.html">Last Will of John Rosewell</a>, 1712
-    </li>
-    <li>
-      <a href="henry-wisdom-will-1744.html">Last Will of Henry Wisdom</a>, 1744
-    </li>
-    <li>
-      <a href="archbold-mary-henry-morgan-1748.html">Manumission Letter: Archbold to Mary and Henry Morgan</a>, 1747/8
-    </li>
-    <li>
-      <a href="sarah-archbould-scotland-1756.html">Manumission Letter: Archbould, Sarah to Scotland</a>, 1756
-    </li>
-    <li>
-      <a href="henry-archbould-jack-1757.html">Manumission Letter: Archbould, Henry to Jack</a>, 1756/1757
-    </li>
-    <li>
-      <a href="royal-gazette-supplement-1781-11-10.html">Supplement to the Royal Gazette</a>, 10 November 1781
-    </li>
-    <li>
-      <a href="thomas-gray-will-1782.html">Last Will of Thomas Gray</a>, 1782
-    </li>
-    <li>
-      <a href="john-bainbridge-will-1817.html">Last Will of John Bainbridge</a>, 1817
-    </li>
-    <li>
-      <a href="richard-palmer-martin-will-1823.html">Last Will of Richard Palmer Martin</a>, 1823
-    </li>
-    <li>
-      <a href="revolt-of-slaves-at-jamaica-1832-02-24.html">Newspaper Article: “Revolt of Slaves at Jamaica”</a>, 24 February 1832
-    </li>
-  </ul>
-
-  <p>
-    <a href="../index.html">Back to home</a>
-  </p>
+  <footer>Jamaican History Online</footer>
 </body>
 </html>
